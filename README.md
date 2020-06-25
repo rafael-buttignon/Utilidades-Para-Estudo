@@ -15,7 +15,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Nerd0000/Meus-Projetos.svg">
   </a>
 
-  <a href="https://github.com/Nerd0000/Meus-Projetos/issues">
+  <a href="https://github.com/rafael-buttignon/Utilidades-Para-Estudo/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Nerd0000/Meus-Projetos.svg">
   </a>
 

@@ -19,6 +19,8 @@
 
 </p>
 
-[Comandos Git](./ComandosGit.md) | Centralizado | Alinhado a direita
-:--------- | :------: | -------:
-Comandos Git | Valor | Valor
+| [Comandos Git](./ComandosGit.md   |     Are      |  Cool |
+|----------|:-------------:|------:|
+| Comandos GIT |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |

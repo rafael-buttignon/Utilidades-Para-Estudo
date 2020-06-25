@@ -23,8 +23,13 @@
 
 - [📚 Git Comandos](./ComandosGit.md)
 - [📚 Docker Comandos](./ComandosGit.md)
+- [📚 Angular](./ComandosGit.md)
 
 ## 🏷️ Ferramentas
 
 - [💡 Links Úteis](./Ferramentas.md)
+- [💡 Artigos e Notícias](./Ferramentas.md)
+- [💡 Cursos em Geral](./Ferramentas.md)
+
+
 

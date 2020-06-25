@@ -1,6 +1,6 @@
 <h1 align="center">
-    < 📜 > <br>
-    Estudos de tecnologia
+    < 📖  > <br>
+    Utilidades Para Estudo - PI
 </h1>
     
 <h4 align="center">
@@ -16,10 +16,6 @@
 
   <a href="https://github.com/Nerd0000/Links-de-Estudo/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Nerd0000/Links-de-Estudo.svg">
-  </a>
-  
-  <a href="https://discord.gg/KkRkpNb">
-     <img src="https://img.shields.io/discord/308323056592486420?logo=discord" alt="chat on Discord">
   </a>
 </p>
 

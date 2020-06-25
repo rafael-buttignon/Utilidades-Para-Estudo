@@ -19,10 +19,7 @@
 
 </p>
 
-<center
 |                                                   |                                              |                                           |                                   |
 | ------------------------------------------------- | -------------------------------------------- | ----------------------------------------- | --------------------------------- |
-| [Cursos com certificado](./config/Certificado.md) | [Cursos em geral](./config/Geral.md)         | [Livros](./config/Livros.md)              | [Cursos Udemy](./config/Udemy.md) |
+| [Comandos Git](./ComandosGit.md) | [Cursos em geral](./config/Geral.md)         | [Livros](./config/Livros.md)              | [Cursos Udemy](./config/Udemy.md) |
 | [Ferramentas](./config/Ferramentas.md)            | [Repositórios no GitHub](./config/GitHub.md) | [Artigos e notícias](./config/Artigos.md) |       
-
-</center>

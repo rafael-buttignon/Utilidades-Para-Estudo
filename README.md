@@ -21,16 +21,15 @@
 
 ## 🏷️ Comandos
 
-- [📚 Git Comandos](./ComandosGit.md)
-- [📚 Docker Comandos](./ComandosGit.md)
-- [📚 Certificação Microsoft](./ComandosGit.md)
-- [📚 Angular](./ComandosGit.md)
+- [📚 Git Comandos](./config/ComandosGit.md)
+- [📚 Docker Comandos](./config/Ferramentas.md)
+- [📚 Certificação Microsoft](./config/Ferramentas.md)
 
 ## ⛏ Ferramentas
 
-- [💡 Links Úteis](./Ferramentas.md)
-- [💡 Artigos e Notícias](./Ferramentas.md)
-- [💡 Cursos em Geral](./Ferramentas.md)
+- [💡 Links Úteis](./config/Ferramentas.md)
+- [💡 Artigos e Notícias](./config/Ferramentas.md)
+- [💡 Cursos em Geral](./config/Ferramentas.md)
 
 
 

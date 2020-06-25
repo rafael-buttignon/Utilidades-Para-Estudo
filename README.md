@@ -11,7 +11,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Nerd0000/Meus-Projetos.svg">
 
-  <a href="https://github.com/Nerd0000/Meus-Projetos/commits/master">
+  <a href="https://github.com/rafael-buttignon/Utilidades-Para-Estudo/commits?author=rafael-buttignon">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Nerd0000/Meus-Projetos.svg">
   </a>
 

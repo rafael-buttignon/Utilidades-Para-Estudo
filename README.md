@@ -1,23 +1,26 @@
 <h1 align="center">
-    < 📖  > <br>
-    Utilidades Para Estudo - PI
+    < 📖 > <br>
+    Utilidades PI
 </h1>
-    
+  
 <h4 align="center">
-  Coleção de links para estudo, pesquisa e desenvolvimento.
+  Utilidades Para Trabalho - **PI**
 </h4>
 
 <p align="center"> 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Nerd0000/Links-de-Estudo.svg">
 
-  <a href="https://github.com/Nerd0000/Links-de-Estudo/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Nerd0000/Links-de-Estudo.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Nerd0000/Meus-Projetos.svg">
+
+  <a href="https://github.com/Nerd0000/Meus-Projetos/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Nerd0000/Meus-Projetos.svg">
   </a>
 
-  <a href="https://github.com/Nerd0000/Links-de-Estudo/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Nerd0000/Links-de-Estudo.svg">
+  <a href="https://github.com/Nerd0000/Meus-Projetos/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Nerd0000/Meus-Projetos.svg">
   </a>
+
 </p>
+
 
 |                                                   |                                              |                                           |                                   |
 | ------------------------------------------------- | -------------------------------------------- | ----------------------------------------- | --------------------------------- |

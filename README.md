@@ -9,8 +9,6 @@
 
 <p align="center"> 
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Nerd0000/Meus-Projetos.svg">
-
   <a href="https://github.com/rafael-buttignon/Utilidades-Para-Estudo/commits?author=rafael-buttignon">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Nerd0000/Meus-Projetos.svg">
   </a>
@@ -21,8 +19,9 @@
 
 </p>
 
-
+<p align="center"> 
 |                                                   |                                              |                                           |                                   |
 | ------------------------------------------------- | -------------------------------------------- | ----------------------------------------- | --------------------------------- |
 | [Cursos com certificado](./config/Certificado.md) | [Cursos em geral](./config/Geral.md)         | [Livros](./config/Livros.md)              | [Cursos Udemy](./config/Udemy.md) |
 | [Ferramentas](./config/Ferramentas.md)            | [Repositórios no GitHub](./config/GitHub.md) | [Artigos e notícias](./config/Artigos.md) |                                   |
+</p>

@@ -99,7 +99,7 @@ As configurações do GIT são armazenadas no arquivo **.gitconfig** localizado 
 
 **Caso de erro na hora do Reset**
 
-``git reset 'HEAD@{1}'`
+`git reset 'HEAD@{1}'`
 
 
 

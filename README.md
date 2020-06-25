@@ -19,7 +19,6 @@
 
 </p>
 
-|                                                   |                                              |                                           |                                   |
-| ------------------------------------------------- | -------------------------------------------- | ----------------------------------------- | --------------------------------- |
-| [Comandos Git](./ComandosGit.md) | [Cursos em geral](./config/Geral.md)         | [Livros](./config/Livros.md)              | [Cursos Udemy](./config/Udemy.md) |
-| [Ferramentas](./config/Ferramentas.md)            | [Repositórios no GitHub](./config/GitHub.md) | [Artigos e notícias](./config/Artigos.md) |       
+[Comandos Git](./ComandosGit.md) | Centralizado | Alinhado a direita
+:--------- | :------: | -------:
+Comandos Git | Valor | Valor

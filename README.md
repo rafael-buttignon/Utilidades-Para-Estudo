@@ -29,7 +29,7 @@
 
 - [💡 Links Úteis](./config/Ferramentas.md)
 - [💡 Artigos e Notícias](./config/Ferramentas.md)
-- [💡 Cursos em Geral](./config/Ferramentas.md)
+- [💡 Cursos em Geral](./config/Geral.md)
 
 
 

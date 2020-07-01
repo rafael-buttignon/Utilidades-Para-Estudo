@@ -36,3 +36,7 @@
 
 `Joao - Anotações e Materias / Linha do Tempo, para estudo`
 [Material Top](https://joaoretamero.com.br/anotacoes-70-483/)
+
+***
+
+**Errei mais de 9.000 cestas e perdi quase 300 jogos. Em 26 diferentes finais de partidas fui encarregado de jogar a bola que venceria o jogo… e falhei. Eu tenho uma história repleta de falhas e fracassos em minha vida. E é exatamente por isso que sou um sucesso.**  -    Michael Jordan

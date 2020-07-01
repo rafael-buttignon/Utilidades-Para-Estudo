@@ -23,7 +23,7 @@
 
 - [📚 Git Comandos](./config/ComandosGit.md)
 - [📚 Docker Comandos](./config/Ferramentas.md)
-- [📚 Certificação Microsoft](./config/Ferramentas.md)
+- [📚 Certificação Microsoft](./config/Certificacao.md)
 
 ## ⛏ Ferramentas
 

@@ -20,7 +20,7 @@
 
 ***
 
-## Simulados, Apps e Livros
+## Simulados, Apps & Livros
 
 `Examtopics - Diversos Simulados Para Treinar`
 [Examtopics](https://www.examtopics.com/exams/microsoft/70-483/)

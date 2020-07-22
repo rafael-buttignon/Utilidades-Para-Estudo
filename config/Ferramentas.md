@@ -11,6 +11,7 @@
 - [🖼 Gifs Git](https://medium.com/@adventuroussrv/how-to-add-gifs-to-your-github-profile-3c7de88cc305) - Adicionar Gifs no GitHub
 - [🖼 Remove.bg](https://www.remove.bg) - Remover fundo de imagens
 - [🖼 Unscreen](https://www.unscreen.com/) - Remover fundo de vídeos e GIFs
+- [🖼 Trakto.io](https://dashboard.trakto.io) - Edição Profissional de imagens
 - [💡 1loc: one line of code](https://1loc.dev/) - Comandos javaScript em uma única linha (em inglês)
 - ✏ Design
   - [Excalidraw](https://excalidraw.com) - Criar diagramas que parecem que foram feitos "na mão"

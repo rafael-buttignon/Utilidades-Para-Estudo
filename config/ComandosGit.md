@@ -38,7 +38,7 @@ As configurações do GIT são armazenadas no arquivo **.gitconfig** localizado 
 
 **Adiciona uma descrição do que voce fez**
 
-`git commit -m "ESCREVER OQ FEZ`
+`git commit -m "ESCREVER OQ FEZ"`
 
 **Definitivamente os arquivos esta na sua branch**
 

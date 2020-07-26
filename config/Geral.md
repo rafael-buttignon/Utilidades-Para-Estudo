@@ -18,6 +18,7 @@
 - [🎨 Curso de Adobe XD](https://www.youtube.com/playlist?list=PL9rc_FjKlX3-K25DZVcNlsVDItg9OlZiW)
 - [💎 Onebitcode](https://onebitcode.com/cursos) - Ruby, Rails, Vue
 - [💬 Duolingo](https://pt.duolingo.com) - Curso de idiomas
+- [💬 mairovergara](https://www.mairovergara.com) - Leitura em Inglês
 - 💡 Rocketseat - Javascript, ReactJs e NodeJs
   - [💜 Site](https://rocketseat.com.br)
   - [📝 Blog](https://blog.rocketseat.com.br)

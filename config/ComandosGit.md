@@ -1,4 +1,4 @@
-# Comandos Git - **Que mais utilizo**
+# Comandos Git - **Que mais utilizo** - [Git-Commands](https://www.notion.so/Git-e-GitHub-principais-comandos-232de171470d4f9f9e41f90f4de2153f)
 
 ## Configuração do Usuário
 As configurações do GIT são armazenadas no arquivo **.gitconfig** localizado dentro do diretório do usuário do Sistema Operacional.

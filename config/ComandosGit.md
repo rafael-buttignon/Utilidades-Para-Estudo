@@ -1,5 +1,11 @@
 # Comandos Git - **Que mais utilizo** - [Git-Commands](https://www.notion.so/Git-e-GitHub-principais-comandos-232de171470d4f9f9e41f90f4de2153f)
 
+###**Boas práticas:**
+
+⭐ Fazer commit apenas de códigos que funcionam;
+
+⭐ Fazer commit de cada nova funcionalidade ou de cada correção de bug.
+
 ## Configuração do Usuário
 As configurações do GIT são armazenadas no arquivo **.gitconfig** localizado dentro do diretório do usuário do Sistema Operacional.
 

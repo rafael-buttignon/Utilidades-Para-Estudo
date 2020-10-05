@@ -15,8 +15,8 @@
 - [💻 Emerson Broga](https://www.youtube.com/channel/UC29n3f6JhwqtD-kCJi_BwoA) - Javascript, ReactJs e NodeJs
 - [💻 Desenvolvimento de jogos](https://www.youtube.com/playlist?list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL) - Javascript, ReactJs e NodeJs 
 - [💻 Node.js para Iniciantes](https://treinamento.nodebr.org)
-- [💻 Cursos Geral] https://queroser.ninja/promocoes/
-- [💻 Cursos JavaScript, React, Etc...] https://www.origamid.com
+- [💻 Cursos Geral] (https://queroser.ninja/promocoes/) - Geral 
+- [💻 Cursos JavaScript, React, Etc...] (https://www.origamid.com)
 - [🎨 Curso de Adobe XD](https://www.youtube.com/playlist?list=PL9rc_FjKlX3-K25DZVcNlsVDItg9OlZiW)
 - [💎 Onebitcode](https://onebitcode.com/cursos) - Ruby, Rails, Vue
 - [💬 Duolingo](https://pt.duolingo.com) - Curso de idiomas
